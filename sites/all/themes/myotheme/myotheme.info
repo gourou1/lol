@@ -24,6 +24,10 @@ regions[postscript_third] = 'Postscript Third'
 regions[postscript_fourth] = 'Postscript Fourth'
 regions[footer_first] = 'Footer First'
 regions[footer_second] = 'Footer Second'
+
+regions[text_1] = 'text 1'
+regions[logo_1] = 'logo 1'
+
 zones[header] = 'Header'
 zones[content] = 'Content'
 zones[footer] = 'Footer'
